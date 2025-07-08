@@ -1,6 +1,6 @@
 {
   "cluster": {
-    "name": "cluster1",
+    "name": "testcluster",
     "overlay": "cluster1"
   }
 }
